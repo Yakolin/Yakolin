@@ -29,9 +29,10 @@
 
 <br />
 
-[![Yakolin's github stat](https://github-readme-stats.vercel.app/api?username=Yakolin&show_icons=true&theme=radical)](https://github.com/Yakolin?tab=repositories)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=Yakolin&layout=compact&langs_count=6&theme=blue-green)
+![GithubStats](https://github-profile-trophy.vercel.app/?username=Yakolin&theme=radical&no-frame=true&no-bg=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yakolin&theme=radical)
+![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=Yakolin&layout=compact&langs_count=6&theme=blue-green) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yakolin&theme=radical)
+
 
 ![Yakolin's github stat](https://komarev.com/ghpvc/?username=Yakolin)
 
