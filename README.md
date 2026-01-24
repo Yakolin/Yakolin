@@ -29,22 +29,25 @@
 </p>
 
 <br />
+<div aling="center">
+  
+ ![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=Yakolin&layout=compact&langs_count=6&theme=blue-green) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yakolin&theme=radical)
+</div>
+ <div> 
+  
+  ![Yakolin's github stat](https://komarev.com/ghpvc/?username=Yakolin)
+  
+  </div>
 
-![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=Yakolin&layout=compact&langs_count=6&theme=blue-green) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yakolin&theme=radical)
-
-
-![Yakolin's github stat](https://komarev.com/ghpvc/?username=Yakolin)
-
-#### Find me on  
- <p align='left'>
+#### Find me on  <img height="25" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs5aG1wZjV1aW8wZnoyZzZiYm16ejgzODA0em83Z3Q1aGFpM29zciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jOgyNBSHNqCuIv7gMa/giphy.gif"/>
+ <p align='center'>
    <a href="https://www.linkedin.com/in/yaco-santamarina-338b59342" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL"></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/_ya_kko" target="_blank"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
  <a href="https://yakolin.itch.io" target="_blank"><img height="25" src="https://img.shields.io/badge/Itch.io-fa5c5c"></a>&nbsp;&nbsp;
  </p>
  
-<h2>
-<a> <img align='left' src='https://media.tenor.com/wIOg3Dv86qEAAAAi/rain-world-saint.gif' width='300'></a></h2>
-<p>
+
+  <img align='center' src='https://media.tenor.com/wIOg3Dv86qEAAAAi/rain-world-saint.gif' width='300'>
 Last Edited on: 25/8/2025
 </p>
 
