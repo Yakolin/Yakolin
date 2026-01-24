@@ -11,6 +11,7 @@
 - ⚡ I love Music, Programing, Desing , Robotic and VideoGames.
 
 
+
 #### Languages and Tools 
 <p>
   <code> <img height="25" src="https://img.shields.io/badge/pyhton-black?logo=python&logoColor=blue&labelColor=black&color=blue" alt="Python"> </code>
@@ -28,8 +29,6 @@
 </p>
 
 <br />
-
-![GithubStats](https://github-profile-trophy.vercel.app/?username=Yakolin&theme=radical&no-frame=true&no-bg=true)
 
 ![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=Yakolin&layout=compact&langs_count=6&theme=blue-green) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yakolin&theme=radical)
 
